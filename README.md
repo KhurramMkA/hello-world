@@ -1,2 +1,5 @@
 # hello-world
-Very first repository!
+
+Hello Gitbots,
+
+Glad to be here!
